@@ -1,3 +1,3 @@
 
 !/usr/bin/python3
-Print("Hello PLP Acdemy")
+Print("Hello PLP Academy")
